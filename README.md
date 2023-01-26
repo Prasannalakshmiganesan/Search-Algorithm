@@ -40,6 +40,9 @@ iii)	# Find the element in a list using Binary Search (recursive Method).
 
 ```
 ## Sample Input and Output
+![OUTPUT](./linear1.png)
+![OUTPUT](./linear2.png)
+![OUTPUT](./linear3.png)
 
 
 
